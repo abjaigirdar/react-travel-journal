@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.body {
+  font-family: 'Inter', sans-serif;
+}
+
+.navbar {
+  background-color: #F55A5A;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 10px 10px 0 0;
+  height: 90px;
+}
+
+.navbar > h3 {
+  font-weight: 400;
+  font-size: 25.46px;
+  color: white;
+}
+
+.navbar > i {
+  font-size: 35px;
+  color: white;
+}
+
+.hero--div {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+  padding-bottom: 10px;
+  gap: 25px;
+}
+
+.details--div {
+  display: flex;
+  flex-direction: column;
+}
+
+.dates {
+  display: flex;
+  font-size: 20.24px;
+  font-weight: bold;
+  gap: 3px;
+}
+
+.location--img {
+  width: 225px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.map--div {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 0;
+}
+
+.location--text {
+  font-weight: 200;
+  font-size: 20.24px;
+  letter-spacing: 2px;
+}
+
+.map--div > a {
+  font-size: 20.24px;
+  color: #918E9B;
+}
+
+.title {
+  font-size: 40px;
+  margin: 0;
+}
+
+.details {
+  font-size: 20.24px;
+  font-weight: 200;
+  margin: 0;
+}
+
+.map--div > i {
+  font-size: 20.24px;
+  color: #F55A5A;
+}
+
+.main--hero--div {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  overflow: auto;
+}
