@@ -1,4 +1,4 @@
-# react-travel-journal #
+Travel Journal - React #
 
 I created this travel journal site to understand React props better. <br>
 I also integrated a Data.JSX file to get a better understanding on data driven components. <br>
