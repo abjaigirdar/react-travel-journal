@@ -1,5 +1,5 @@
 I created this travel journal site to understand React props better. <br>
-I also integrated a Data.JSX file to get a better understanding on data driven components.
+I also integrated a Data.JSX file to get a better understanding on data driven components. <br>
 Here's the link to the live site: https://traveljournal-byaj.netlify.app/ <br>
 Let me know how you like it. <br>
 Thank you <br>
